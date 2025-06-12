@@ -1,1 +1,7 @@
-# Elfsight Test Task (Rick and Morty API)
+# Rick and Morty Gallery
+
+Установка
+
+```bash
+npm install
+npm start
